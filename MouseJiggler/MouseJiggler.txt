@@ -1,0 +1,30 @@
+REM	Title: MouseJiggler
+REM	Author: White_Wid0w
+REM	Description: A Ducky Script Payload that turns on and off caps lock every 10 seconds to act as a makeshift mouse-jiggler.
+
+REM	Target: Windows OS
+
+
+	    REM Turns the caps lock on and off to act as a type of mouse-jiggler.
+
+
+BUTTON_DEF
+    WHILE TRUE
+        CAPSLOCK
+        DELAY 1000
+        CAPSLOCK
+        DELAY 1000
+    END_WHILE
+END_BUTTON
+
+WHILE TRUE
+    REM This section is optional and used for LED indication
+    LED_G
+    DELAY 1000
+    LED_OFF
+    DELAY 1000
+END_WHILE
+
+
+     REM DONE. 
+
