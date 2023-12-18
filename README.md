@@ -103,9 +103,9 @@ ________________________________________________________________________________
 :Resources:
 
 
-1:
+1: Syntax Guide ( https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference )
 
-2:
+2: Payload Generator ( https://ducktoolkit.com/ )
 
 3:
 
