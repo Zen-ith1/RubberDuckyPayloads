@@ -100,7 +100,7 @@ ________________________________________________________________________________
 
 <br>
 
-### :Resources:
+### Resources:
 
 
 1: Syntax Guide ( https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference )
