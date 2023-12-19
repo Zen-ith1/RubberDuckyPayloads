@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
 2: Payload Generator ( https://ducktoolkit.com/ )
 
-3:
+3: Payload SetUp Guide ( https://blog.hartleybrody.com/rubber-ducky-guide/ )
 
 
 
